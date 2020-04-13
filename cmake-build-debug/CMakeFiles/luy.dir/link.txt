@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/luy.dir/main.cpp.o CMakeFiles/luy.dir/LinkedList.cpp.o  -o luy 
